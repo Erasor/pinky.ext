@@ -812,7 +812,7 @@
 	{
 		"id": 55,
 		"condition": {
-			"urlFilter": "https://ubistatic-a.akamaihd.net/0018/live/GFX_HASHED/building_lib/70f3396b618644a2b525be39c8da046681ad59cc.png",
+			"urlFilter": "https://ubistatic-a.akamaihd.net/0018/live/GFX_HASHED/building_lib/81e7f9a675419291fe18e576bb2be422b7614e67.png",
 			"resourceTypes": [
 				"xmlhttprequest"
 			]
@@ -825,9 +825,9 @@
 		}
 	},
 	{
-		"id": 54,
+		"id": 56,
 		"condition": {
-			"urlFilter": "https://ubistatic-a.akamaihd.net/0018/live/GFX_HASHED/building_lib/81e7f9a675419291fe18e576bb2be422b7614e67.png",
+			"urlFilter": "https://ubistatic-a.akamaihd.net/0018/live/GFX_HASHED/building_lib/70f3396b618644a2b525be39c8da046681ad59cc.png",
 			"resourceTypes": [
 				"xmlhttprequest"
 			]

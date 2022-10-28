@@ -2,12 +2,12 @@
 	"manifest_version": 3,
 	"minimum_chrome_version": "84",
 	
-	"name": "Pinky",
+	"name": "Erasors Pinky",
 	"short_name": "Pinky",
-	"author": "perceptron8",
+	"author": "perceptron8 and Erasor",
 	"description": "Web Extension making 'The Settlers Online' collectibles easy to find!",
-	"homepage_url": "https://github.com/perceptron8/pinky.ext",
-	"version": "0.6.0",
+	"homepage_url": "https://github.com/Erasor/pinky.ext",
+	"version": "0.6.0.1",
 	
 	"icons": {
 		"128": "icon.png"
